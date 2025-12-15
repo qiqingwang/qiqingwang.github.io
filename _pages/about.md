@@ -33,8 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.04*: &nbsp;🎉🎉 We won second place in the 2025 Singapore ITSS x LTA Hackathon.
 
 # 📝 Publications
-## Highlights
-### Trustworthy AI for traffic control
+## Highlights - Trustworthy AI for traffic control
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2025</div><img src='images/LLM_control.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-### Privacy-preserving data collaboration in transportation systems
+## Highlights - Privacy-preserving data collaboration in transportation systems
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 26</div><img src='images/privacy_game.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
