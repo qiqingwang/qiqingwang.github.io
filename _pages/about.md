@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. Candidate at the National University of Singapore (NUS) working with [Prof. Kaidi Yang](https://cde.nus.edu.sg/cee/staff/kaidi-yang-2/). Also, I am a co-founder of AutoLink to transform driving data into digital assets for everyone. Before that, I obtained a BEng. in Transportation Engineering from the Harbin Institute of Technology (HIT) in Harbin, China.
+I am a final-year Ph.D. Candidate at the National University of Singapore (NUS) working with [Prof. Kaidi Yang](https://cde.nus.edu.sg/cee/staff/kaidi-yang-2/). Also, I am a co-founder of AutoLink to transform driving data into digital assets for everyone. Before that, I obtained a B.Eng. in Transportation Engineering from the Harbin Institute of Technology (HIT) in Harbin, China.
 
 My research interests include responsible data science in transportation systems and trustworthy AI for traffic control. I have published some papers at the top transportation conferences, such as ISTTT, ITSC, TRB, and so on. For more details, please find my CV attached.
 
@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Privacy-preserving data collaboration in transportation systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 26</div><img src='images/privacy_game.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 26</div><img src='images/privacy_game.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Fostering Data Collaboration in Digital Transportation Marketplaces: The Role of Privacy-Preserving Mechanisms**
