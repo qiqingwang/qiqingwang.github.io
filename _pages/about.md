@@ -32,7 +32,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.11*: &nbsp;🎉🎉 We successfully organized an invited session, Trustworthy AI for Traffic Sensing and Control, at ITSC 2025.
 - *2025.04*: &nbsp;🎉🎉 We won second place in the 2025 Singapore ITSS x LTA Hackathon.
 
-# 📝 Publications (Selected)
+# 📝 Publications
+## Highlights
 ## Trustworthy AI for traffic control
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2025</div><img src='images/LLM_control.png' alt="sym" width="100%"></div></div>
@@ -83,7 +84,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-# 🎖 Honors and Awards (Selected)
+# 🎖 Honors and Awards
+## Highlights
 - *2025.11* Best Paper Award, The 2025 International Symposium on Multimodal Transportation (ISMT)
 - *2025.11* Best Student Paper Award Nomination, The 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC)
 - *2025.08* Best Presentation Award, The 14th Asia-Pacific Conference on Transportation and the Environment (APTE)
