@@ -35,30 +35,37 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications (Selected)
 ## Trustworthy AI for traffic control
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LLMs as Virtual Traffic Police: Incident-Aware Traffic Signal Control Augmented by Large Language Models**
+
+**Qiqing Wang**, Shiqi Wei, Kaidi Yang*
+
+</div>
+</div>
+
 
 ## Privacy-preserving data collaboration in transportation systems
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 26</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Fostering Data Collaboration in Digital Transportation Marketplaces: The Role of Privacy-Preserving Mechanisms**
 
-**Qiqing Wang**, Haokun Yu, Kaidi Yang
+**Qiqing Wang**, Haokun Yu, Kaidi Yang*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Collaborating Without Compromising Privacy: Traffic Signal Control via Vertical Federated Offline Reinforcement Learning**
 
-**Qiqing Wang**, Shiqi Wei, Chaopeng Tan, Kaidi Yang
+**Qiqing Wang**, Shiqi Wei, Chaopeng Tan, Kaidi Yang*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -66,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Privacy-preserving data fusion for traffic state estimation: A vertical federated learning approach**
+**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**
 
 **Qiqing Wang**, Kaidi Yang*
 
