@@ -32,7 +32,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.11*: &nbsp;🎉🎉 We successfully organized an invited session, Trustworthy AI for Traffic Sensing and Control, at ITSC 2025.
 - *2025.04*: &nbsp;🎉🎉 We won second place in the 2025 Singapore ITSS x LTA Hackathon.
 
-# 📝 Publications 
+# 📝 Publications (Selected)
+## Trustworthy AI for traffic control
+
+
+## Privacy-preserving data collaboration in transportation systems
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 26</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,7 +49,6 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,23 +66,23 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Privacy-preserving data fusion for traffic state estimation: A vertical federated learning approach**
 
-**Qiqing Wang**, Kaidi Yang
+**Qiqing Wang**, Kaidi Yang*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0968090X2400264X) \| [**Code**](https://github.com/qiqingwang/privacy-fedtse)
+
 </div>
 </div>
 
 
 # 🎖 Honors and Awards (Selected)
-- *2025.11* Best Paper Award, The 2025 International Symposium on Multimodal Transportation (ISMT).
-- *2025.11* Best Student Paper Award Nomination, The 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC).
-- *2025.08* Best Presentation Award, The 14th Asia-Pacific Conference on Transportation and the Environment (APTE).
-- *2025.04* Singapore ITSS x LTA Hackathon second Place (Top 2%, Team leader).
-- *2022.08* NUS Research Scholarship.
-- *2020.11* China National Scholarship (Top 1%).
+- *2025.11* Best Paper Award, The 2025 International Symposium on Multimodal Transportation (ISMT)
+- *2025.11* Best Student Paper Award Nomination, The 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC)
+- *2025.08* Best Presentation Award, The 14th Asia-Pacific Conference on Transportation and the Environment (APTE)
+- *2025.04* Singapore ITSS x LTA Hackathon second Place (Top 2%, Team leader)
+- *2022.08* NUS Research Scholarship
+- *2020.11* China National Scholarship (Top 1%)
 
 # 📖 Educations
 - *2022.08 - now*, Ph.D. in Intelligent Transportation Systems, National University of Singapore (NUS)
