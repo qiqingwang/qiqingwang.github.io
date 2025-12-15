@@ -49,13 +49,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards (Selected)
+- *2025.11* Best Paper Award, The 2025 International Symposium on Multimodal Transportation (ISMT).
+- *2025.11* Best Student Paper Award Nomination, The 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC).
+- *2025.08* Best Presentation Award, The 14th Asia-Pacific Conference on Transportation and the Environment (APTE).
+- *2025.04* Singapore ITSS x LTA Hackathon second Place (Top 2\%, Team leader).
+- *2022.08* NUS Research Scholarship.
+- *2020.11* China National Scholarship (Top 1\%).
 
 # 📖 Educations
-- *2022.08 - now*, National University of Singapore. 
-- *2018.08 - 2022.06*, Harbin Institute of Technology.
+- *2022.08 - now*, National University of Singapore (NUS), Ph.D. in the Department of Civil \& Environmental Engineering. 
+- *2018.08 - 2022.06*, Harbin Institute of Technology (HIT), B.Eng. in the School of Transportation Science and Engineering.
 
 <!--
 # 💬 Invited Talks
