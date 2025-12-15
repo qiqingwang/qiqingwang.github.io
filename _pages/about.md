@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Privacy-preserving data collaboration in transportation systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 26</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 26</div><img src='images/privacy_game.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Fostering Data Collaboration in Digital Transportation Marketplaces: The Role of Privacy-Preserving Mechanisms**
@@ -70,7 +70,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 25</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 25</div><img src='images/FedTSE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**
