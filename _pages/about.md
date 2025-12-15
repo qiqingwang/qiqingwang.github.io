@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications (Selected)
 ## Trustworthy AI for traffic control
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITSC 2025</div><img src='images/LLM_control.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LLMs as Virtual Traffic Police: Incident-Aware Traffic Signal Control Augmented by Large Language Models**
@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2026</div><img src='images/FedRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Collaborating Without Compromising Privacy: Traffic Signal Control via Vertical Federated Offline Reinforcement Learning**
@@ -70,7 +70,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 25</div><img src='images/FedTSE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISTTT 25</div><img src='images/FedTSE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**
