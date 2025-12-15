@@ -25,8 +25,10 @@ My research focuses on responsible data science in transportation systems.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 Our paper on privacy-aware data collaboration game has been accepted by ISTTT26! See you in Munich!
+- *2025.11*: &nbsp;🎉🎉 We won the best paper award at ISMT.
+- *2025.11*: &nbsp;🎉🎉 Our paper is nominated for the best student paper award at ITSC 2025.
+- *2025.11*: &nbsp;🎉🎉 We successfully organized an invited session, Trustworthy AI for Traffic Sensing and Control, at ITSC 2025.
 
 # 📝 Publications 
 
