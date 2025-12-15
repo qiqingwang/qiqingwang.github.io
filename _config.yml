@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiqing Wang - Homepage"
-description              : "Ph.D. Candidate at NUS, B.Eng. from HIT. Focus on responsible data science and trustworthy AI for mobility. "
+description              : "Focus on responsible data science and trustworthy AI for mobility. "
 repository               : "qiqingwang/qiqingwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiqing Wang"
   avatar           : "images/Qiqing_Wang.jpg"
-  bio              : "Ph.D. Candidate at NUS"
+  bio              : "Ph.D. Candidate at NUS, B.Eng. from HIT."
   location         : "Singapore"
   employer         :
   pubmed           : 
