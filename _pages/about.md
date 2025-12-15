@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. Candidate at National University of Singapore (NUS) under the supervision of Assistant Professor Kaidi Yang. Prior to this, I obtained a BEng. in Transportation Engineering from the Harbin Institute of Technology (HIT) in Harbin, China.
+I am a final-year Ph.D. Candidate at the National University of Singapore (NUS) working with [Prof. Kaidi Yang](https://cde.nus.edu.sg/cee/staff/kaidi-yang-2/). Also, I am a co-founder of AutoLink to transform driving data into digital assets for everyone. Before that, I obtained a BEng. in Transportation Engineering from the Harbin Institute of Technology (HIT) in Harbin, China.
 
-My research focuses on responsible data science in transportation systems.
-
-For more details, please find my CV.
+My research interests include responsible data science in transportation systems and trustworthy AI for traffic control. I have published some papers at the top transportation conferences, such as ISTTT, ITSC, TRB, and so on. For more details, please find my CV attached.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -32,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.11*: &nbsp;🎉🎉 We won the best paper award at ISMT.
 - *2025.11*: &nbsp;🎉🎉 Our paper is nominated for the best student paper award at ITSC 2025.
 - *2025.11*: &nbsp;🎉🎉 We successfully organized an invited session, Trustworthy AI for Traffic Sensing and Control, at ITSC 2025.
+- *2025.04*: &nbsp;🎉🎉 We won second place in the 2025 Singapore ITSS x LTA Hackathon.
 
 # 📝 Publications 
 
@@ -53,9 +52,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.11* Best Paper Award, The 2025 International Symposium on Multimodal Transportation (ISMT).
 - *2025.11* Best Student Paper Award Nomination, The 2025 IEEE International Conference on Intelligent Transportation Systems (ITSC).
 - *2025.08* Best Presentation Award, The 14th Asia-Pacific Conference on Transportation and the Environment (APTE).
-- *2025.04* Singapore ITSS x LTA Hackathon second Place (Top 2\%, Team leader).
+- *2025.04* Singapore ITSS x LTA Hackathon second Place (Top 2%, Team leader).
 - *2022.08* NUS Research Scholarship.
-- *2020.11* China National Scholarship (Top 1\%).
+- *2020.11* China National Scholarship (Top 1%).
 
 # 📖 Educations
 - *2022.08 - now*, National University of Singapore (NUS), Ph.D. in the Department of Civil \& Environmental Engineering. 
